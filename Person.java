@@ -24,4 +24,3 @@ public class Person{
 		p1.drive();
 		p2.drive();
 	}
-}
